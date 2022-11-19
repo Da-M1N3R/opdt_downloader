@@ -1,2 +1,2 @@
- # the main file contain function to download
- # second file is actually the run file
+ # main.py >>> stores the function to download
+ # second.py >>> actual run file
